@@ -1,9 +1,9 @@
 [context.production.environment]
-GATSBY_ALGOLIA_APP_ID=9P3BDIJFFZ
-GATSBY_ALGOLIA_SEARCH_KEY=efeee842cad657a010ced8f1e15d6030
-ALGOLIA_ADMIN_KEY=5b8afde750777375cee3e58fc261178f
-ALGOLIA_SKIP_INDEX=true
-GATSBY_ALGOLIA_INDEX=checklist_index
-GATSBY_SUGGEST_LINK=https://git.io/JvNF1
-GATSBY_PROJECT_LINK=https://hakkisagdic.github.io
-GATSBY_GITHUB_LINK=https://github.com/hakkisagdic/checklist
+  GATSBY_ALGOLIA_APP_ID=9P3BDIJFFZ
+  GATSBY_ALGOLIA_SEARCH_KEY=efeee842cad657a010ced8f1e15d6030
+  ALGOLIA_ADMIN_KEY=5b8afde750777375cee3e58fc261178f
+  ALGOLIA_SKIP_INDEX=true
+  GATSBY_ALGOLIA_INDEX=checklist_index
+  GATSBY_SUGGEST_LINK=https://git.io/JvNF1
+  GATSBY_PROJECT_LINK=https://hakkisagdic.github.io
+  GATSBY_GITHUB_LINK=https://github.com/hakkisagdic/checklist
