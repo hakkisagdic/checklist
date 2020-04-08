@@ -1,6 +1,6 @@
 ---
 title: Yıllık Ücretli İzin Talebi Değerlendirmesi
-category: Change this value with one of them; "Project Management", "General"
+category: "General"
 date: "2020-04-08"
 tags: ['yıllık', 'izin', 'değerlendirme']
 description: Yıllık Ücretli İzin Talebi Değerlendirmesi
