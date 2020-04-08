@@ -1,6 +1,6 @@
 ---
 title: Mazeret İzin Talebi
-category: Change this value with one of them; "Project Management", "General"
+category: "General"
 date: "2020-04-08"
 tags: ['mazeret', 'izin', 'talebi']
 description: Mazeret İzin Talebi
