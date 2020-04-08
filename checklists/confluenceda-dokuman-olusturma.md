@@ -1,6 +1,6 @@
 ---
 title: Confluence'da doküman oluşturma
-category: Change this value with one of them;  "Project Management", "General"
+category: "General"
 date: "2020-04-08"
 tags: ['doküman']
 description: Confluence da doküman oluşturma
