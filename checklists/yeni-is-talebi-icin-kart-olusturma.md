@@ -1,6 +1,6 @@
 ---
 title: Yeni İş Talebi İçin Kart Oluşturma
-category: "Front-End", "Back-End", "Mobile", "DevOps", "Project Management", "General"
+category:  "General"
 date: "2020-04-08"
 tags: ['kart', 'trello', 'yeni']
 description: Yeni iş talebi için kart oluşturma
