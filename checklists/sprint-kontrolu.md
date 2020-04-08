@@ -1,6 +1,6 @@
 ---
 title: Sprint Kontrolu
-category: "Project Management", "General"
+category: "General"
 date: "2020-04-08"
 tags: ['sprint', 'planlama', 'agile']
 description: Sprint Kontrolu
