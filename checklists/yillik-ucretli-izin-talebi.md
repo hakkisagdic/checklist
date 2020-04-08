@@ -1,6 +1,6 @@
 ---
-title: Yıllık ücretli izin talebi
-category: Change this value with one of them; "Project Management", "General"
+title: Yıllık Ücretli İzin Talebi
+category: "General"
 date: "2020-04-08"
 tags: ['izin', 'yıllık', 'talep']
 description: Yıllık Ücretli İzin Talebi
