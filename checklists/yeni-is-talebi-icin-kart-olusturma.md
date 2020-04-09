@@ -6,16 +6,12 @@ tags: ['kart', 'trello', 'yeni']
 description: Yeni iş talebi için kart oluşturma
 ---
 
-- [ ] Trello da işin kapsamı olduğu proje tablosunda kart aç
+- [ ] Trello da işin kapsamı olduğu proje panosuna git
 
-- [ ] Karta uygun isimi oluştur
+- [ ] Gelen Talepler listesinde kart oluştur
 
-- [ ] İş tipine göre kategorisini (#scrum(mavi)-#kanban(sarı) olduğunu) /rengini belirt
+- [ ] Karta uygun isim oluştur
 
 - [ ] İş tanımını, amacını ve kapsamını oluştur
-
-- [ ] İlgili kişileri etiketle
-
-- [ ] İş için tahmini süre ver
 
 - [ ] Gerekli linkleri ve ekipmanları ekle
